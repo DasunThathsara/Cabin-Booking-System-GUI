@@ -1,0 +1,16 @@
+.btn{
+    -fx-background-radius: 0;
+    -fx-background-color:black;
+    -fx-text-fill:white;
+}
+
+.btn: hover{
+    -fx-background-color:white;
+    -fx-text-fill:black;
+}
+
+.selected_btn{
+    -fx-background-color:white;
+    -fx-text-fill:black;
+    -fx-background-radius: 0;
+}
